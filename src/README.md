@@ -9,10 +9,3 @@ This is the directory of C++ source code.
 6. statistics.h
 7. validate_date.h
 8. README.md
-
-# How to use
-Put the donation data file into the directory "./input" and name it as "itcont.txt", also put the percentile data file into the same directory "./input" and name it as "percentile.txt".
-
-Run the bash file "./run.sh".
-
-Then you should get a output file in the directory "./output" whose name should be "repeat_donors.txt".
